@@ -3,7 +3,7 @@
 ## 🏆 Objective  
 New graduates often struggle to manage their finances while transitioning into professional careers. Making informed financial decisions early on can significantly impact long-term stability and success.  
 
-This project was a collaborative effort by a four-member team, leveraging knowledge from an *Engineering Economic Decision-Making* course to simulate financial planning for a hypothetical software engineer, Rehan Ahmed. The goal was to analyze the financial implications of pursuing different educational paths, settling in two major U.S. tech hubs, and adopting various investment strategies to determine an optimal approach for securing financial stability and building wealth.  
+This project was a collaborative effort by a six-member team, leveraging knowledge from an *Engineering Economic Decision-Making* course to simulate financial planning for a hypothetical software engineer, Rehan Ahmed. The goal was to analyze the financial implications of pursuing different educational paths, settling in two major U.S. tech hubs, and adopting various investment strategies to determine an optimal approach for securing financial stability and building wealth.  
 
 ---
 
@@ -102,7 +102,9 @@ The analysis incorporated the following key variables:
 - Sachin Gahane  
 - Kaustubh Khedekar  
 - Rehan Ahmed  
-- Rahul Kotikalapudi  
+- Rahul Kotikalapudi
+- Simran Bhatia
+- Saksham Saxena
 
 ---
 
